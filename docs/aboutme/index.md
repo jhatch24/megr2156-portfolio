@@ -8,3 +8,4 @@ What does it mean to defend an engineering decision : and do you currently know 
 What I believe it means to defend an engineering decision is to know what the facts are, what is it's affect on the environment around it, it's ethical worth, and it is worth fighting for at all. I do not currently know how to do defend an engineering decision properly. 
 # 
 I spent about a week on this assignment.
+
