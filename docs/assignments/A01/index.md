@@ -39,7 +39,10 @@ Governing equation: Force input x Distance input = Force output x Distance outpu
 ii.  State one assumption that makes the model valid for this product.  
 Grips are curved and made with a strong piece of steel. They are additionally reinforced with rubber grips to maximize strength used on cutting pliers  
 
-&nbsp; c.  Take photographs of each component. Under each photograph, describe precisely how the geometry of that component affects its mechanical function.  
+&nbsp; c.  Take photographs of each component. Under each photograph, describe precisely how the geometry of that component affects its mechanical function.   
+![Fulcrum/Pivot Point: The geometry of this component provides the support to keep the two handles together and keep the pivot distance between the bite point short. This maximizes hand force from the handles.](IMG.5898.jpeg)
+ 
+
 
 ## Decide
 
