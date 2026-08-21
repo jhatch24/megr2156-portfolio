@@ -14,32 +14,32 @@ Github: eddyizm’s Github portfolio has a modular approach with a selective cho
 Engineering Portfolio: Thanh Tran’s engineering portfolio streamlines the function of searching for any specific assignment or piece of work in under 60 seconds by strategically placing a projects tab at the very top of his page. Moving to his project page, the user is able to use a filter to select specific projects he had worked on at different time periods. For example; an internship or for a school design project. The website has simple intuitive navigation with bold letters and no clutter. One can find any specific assignment or piece of work that Thanh Tran took part in successfully in under 60 seconds.
 
 
-  b.  Reproducibility : does the documentation contain enough information that a colleague could reproduce the work without asking a question?  
+ &nbsp; b.  Reproducibility : does the documentation contain enough information that a colleague could reproduce the work without asking a question?  
 Github: Eddyizm’s portfolio for his most popular application “Tempus” is completely open to the public on Github. Someone who is experienced with coding could easily replicate the code and adjust the features to their individual needs without asking a question. Each project is self-contained, separated in an easy to read folder explicitly stating the functions of granular code used throughout the website and how it's divided up.  
 Engineering Portfolio: The explicit details of Thanh Tran’s engineering portfolio needed for a colleague to replicate the work without asking a question is not possible with his portfolio. The purpose of his portfolio is to showcase his projects, achievements, career timeline, and information about him. When looking at Thanh Tran’s projects, information about the project is kept short and concise. He provides photos of his designs and product for visual context, but he lacks explicitly detailed documentation for a colleague to reproduce his work without asking a question. 
 
 
-  c.  Evidence of reasoning : does the portfolio show how decisions were made, or only what the final answer was?  
+ &nbsp; c.  Evidence of reasoning : does the portfolio show how decisions were made, or only what the final answer was?  
 Github: Eddyizm’s portfolio does not show how decisions were made for the design of his app. It is very obvious only the final answer is provided. He only provides application update information for new features, otherwise detailed decision making about which alternatives he should take to execute a specific task is absent.  
 Engineering Portfolio: Thanh Tran’s portfolio shows how decisions were made concisely and his reasoning for why he chose his design. He also provides evidence of the final project/answer and the requisite steps needed to complete his design and vision. He does this by stating his vision and reasoning for design, and then further elaborating on his design choices versus his alternatives he had.
 
 
-  d.  Professional tone : does the language meet the standard of a document you would hand to an employer?  
+ &nbsp; d.  Professional tone : does the language meet the standard of a document you would hand to an employer?  
 Github: Eddyizm’s language meets the standard of what you would hand to an employer, although his portfolio is a display of his coding projects. His timeline located under his pinned projects would be a more accurate representation of his writing capabilities. Language on updates and apps is clear and concise to a user that is looking for specific data within his platforms. This is measured with a feedback box located in the menu of the application.  
 Engineering Portfolio: Thanh Tran’s engineering portfolio language absolutely meets the standard of a document one would hand to an employer. The purpose of this website is obvious addition to his resume, and to have an accessible portfolio for anyone interested to access. Language used on his projects is a short summary, highlighting key topics and skills utilized during his experiences. For a busy recruiting agent that is looking to save time reading resumes and trying to visual experience, this website is a great place to find specific information about Thanh Tran’s in a short amount of time. 
 
 ## Task B: Product Analysis: Cutting Pliers
-a.   What is the primary function of this product? State it as an engineering function : what mechanical task does it perform? State it precisely, not as a consumer description.  
+&nbsp; a.   What is the primary function of this product? State it as an engineering function : what mechanical task does it perform? State it precisely, not as a consumer description.  
 To make clean, flat cuts close to a surface. The perpendicular cutting edge allows users to snip wires, nails, rivets or protruding plastic pins flush against a base with the handles getting in the way.  
 
-b.  Identify the governing model : what equation or physical principle governs its primary behavior? 
+&nbsp; b.  Identify the governing model : what equation or physical principle governs its primary behavior? 
 i.  State the model and identify its variables.
 Governing model: Law of the lever (Class 1 lever), and mechanical advantage.
 Governing equation: Force input x Distance input = Force output x Distance output
 ii.  State one assumption that makes the model valid for this product.
 Grips are curved and made with a strong piece of steel. They are additionally reinforced with rubber grips to maximize strength used on cutting pliers
 
-c.  Take photographs of each component. Under each photograph, describe precisely how the geometry of that component affects its mechanical function.
+&nbsp; c.  Take photographs of each component. Under each photograph, describe precisely how the geometry of that component affects its mechanical function.
 
 ## Decide
 
