@@ -4,7 +4,7 @@
 Firstly, to break down and analyze other engineering portfolios with explicit detail to grasp the full understanding, concept, and perspective of a future user/viewer and how to design as efficient as possible. In this example, a website. Secondly, we were asked to repeat this process with a mechanical device with three or less components. The goal was for us to answer a series of questions about design related to physical principles and engineering functions to discover the intent behind engineering decisions. As well as to think backwards from the complete product to the patent. This allows to understand the complete transparency of the design process, sensibility and challenges that come along with it. 
 
 ## Analyze
-# Task A: Portfolio Analysis
+## Task A: Portfolio Analysis
 Github host: https://github.com/eddyizm 
 Engineering Portfolio found online: https://thanhvtran.com/ 
 a.  Navigability : can a reader locate any specific assignment or piece of work in under 60 seconds? 
@@ -26,7 +26,7 @@ d.  Professional tone : does the language meet the standard of a document you wo
 Github: Eddyizm’s language meets the standard of what you would hand to an employer, although his portfolio is a display of his coding projects. His timeline located under his pinned projects would be a more accurate representation of his writing capabilities. Language on updates and apps is clear and concise to a user that is looking for specific data within his platforms. This is measured with a feedback box located in the menu of the application. 
 Engineering Portfolio: Thanh Tran’s engineering portfolio language absolutely meets the standard of a document one would hand to an employer. The purpose of this website is obvious addition to his resume, and to have an accessible portfolio for anyone interested to access. Language used on his projects is a short summary, highlighting key topics and skills utilized during his experiences. For a busy recruiting agent that is looking to save time reading resumes and trying to visual experience, this website is a great place to find specific information about Thanh Tran’s in a short amount of time. 
 
-# Task B: Product Analysis: Cutting Pliers
+## Task B: Product Analysis: Cutting Pliers
 a.   What is the primary function of this product? State it as an engineering function : what mechanical task does it perform? State it precisely, not as a consumer description. 
 To make clean, flat cuts close to a surface. The perpendicular cutting edge allows users to snip wires, nails, rivets or protruding plastic pins flush against a base with the handles getting in the way.
 
