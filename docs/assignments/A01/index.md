@@ -50,6 +50,10 @@ Grips are curved and made with a strong piece of steel. They are additionally re
 
 &nbsp; d.  Using patent research, identify the patent number and author(s).  
 
+![Patent of Pliercutters](clippingplierpatent1951.png): Cutting Pliers Patent 1946 by Inventor Winsor Josselyn  
+Patent no.: US2605543A
+
+
 
  
 
