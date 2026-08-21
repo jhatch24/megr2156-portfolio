@@ -1,6 +1,6 @@
 # A1 – [Build Your Professional Portfolio]
 
-## Objective
+## **Objective**
 Firstly, to break down and analyze other engineering portfolios with explicit detail to grasp the full understanding, concept, and perspective of a future user/viewer and how to design as efficient as possible. In this example, a website. Secondly, we were asked to repeat this process with a mechanical device with three or less components. The goal was for us to answer a series of questions about design related to physical principles and engineering functions to discover the intent behind engineering decisions. As well as to think backwards from the complete product to the patent. This allows us to understand the complete transparency of the design process, sensibility and challenges that come along with it. 
 
 ## **Analyze**
@@ -60,7 +60,7 @@ Carpenters Pincers: Designed mainly for screws and nails
 ii.  Identify one design decision the original engineer made : something you can see in the patent or geometry : and explain why you think they made that choice.  
 The shapes of the handles are built with the human fist and grip mechanism in mind. With a wide base distance between handles, gently swooping and intersecting at a narrow fulcrum. The design implies you put the device in one hand and squeeze. The ergonomic intent of the handle allows it to comfortably sit in your fist when using the tool, no matter which hand it is. Because you only need one hand to cut most materials because of the mechanical advantage and leverage one is achieving with this device. One can maybe use the other hand for another purpose like holding a flashlight or another tool.  
 
-## Decide
+## **Decide**
 ## Homepage Identity  
 The visitor needs to be able to locate information as quickly and as efficiently as possible.Having an easy to read menu section that is transparent and narrow makes decision making quicker for the user. Additionally, knowing who my audience is very important in how I should design my portfolio. For example; a recruiter would likely want to know where my resume can be found, as well as a timeline of experience and brief internship experiences overview that's easy to digest with photos for support. The standard the portfolio should hold itself to is being as simplistic and easy to read as possible. I intentionally look at my portfolio after writing and adjusting text, adding images, and changing colors. This perspective provides me as the creator valuable insight to what a user may want to read or see. As a user, the first detail I am looking for is an about me section to grasp a better idea of what this person may be like. Secondly, I will be looking for an experience timeline of education or work. Finding out where someone grew up and what they studied is more valuable than what they may do for work because this speaks volumes about their personality on a personal level. With this criteria in my mind, this is how I justified building my portfolio with a similar structure. 
 
