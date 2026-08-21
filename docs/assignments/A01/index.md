@@ -33,13 +33,13 @@ Engineering Portfolio: Thanh Tran’s engineering portfolio language absolutely 
 To make clean, flat cuts close to a surface. The perpendicular cutting edge allows users to snip wires, nails, rivets or protruding plastic pins flush against a base with the handles getting in the way.  
 
 &nbsp; b.  Identify the governing model : what equation or physical principle governs its primary behavior? 
-i.  State the model and identify its variables.
-Governing model: Law of the lever (Class 1 lever), and mechanical advantage.
-Governing equation: Force input x Distance input = Force output x Distance output
-ii.  State one assumption that makes the model valid for this product.
-Grips are curved and made with a strong piece of steel. They are additionally reinforced with rubber grips to maximize strength used on cutting pliers
+i.  State the model and identify its variables.  
+Governing model: Law of the lever (Class 1 lever), and mechanical advantage.  
+Governing equation: Force input x Distance input = Force output x Distance output  
+ii.  State one assumption that makes the model valid for this product.  
+Grips are curved and made with a strong piece of steel. They are additionally reinforced with rubber grips to maximize strength used on cutting pliers  
 
-&nbsp; c.  Take photographs of each component. Under each photograph, describe precisely how the geometry of that component affects its mechanical function.
+&nbsp; c.  Take photographs of each component. Under each photograph, describe precisely how the geometry of that component affects its mechanical function.  
 
 ## Decide
 
