@@ -9,7 +9,7 @@ Github host: https://github.com/eddyizm
 
 Engineering Portfolio found online: https://thanhvtran.com/  
 
-a.  Navigability : can a reader locate any specific assignment or piece of work in under 60 seconds? 
+a.  Navigability : can a reader locate any specific assignment or piece of work in under 60 seconds?  
 Github: eddyizm’s Github portfolio has a modular approach with a selective choice of projects/repositories he has developed through Github's services. His staple and highlighted projects are cataloged at the very top of his portfolio in a large section labeled “Pinned”. This section is located in the middle of the screen when clicking on his portfolio. Making it very hard to miss eddyizm’s most prized projects. To search for other projects on his portfolio, one will have to scroll down to the timeline of his work on Github. This can significantly delay the time attempting to find a specific project. Pinned projects can be located in under 60 seconds, but other projects may vary. 
 Engineering Portfolio: Thanh Tran’s engineering portfolio streamlines the function of searching for any specific assignment or piece of work in under 60 seconds by strategically placing a projects tab at the very top of his page. Moving to his project page, the user is able to use a filter to select specific projects he had worked on at different time periods. For example; an internship or for a school design project. The website has simple intuitive navigation with bold letters and no clutter. One can find any specific assignment or piece of work that Thanh Tran took part in successfully in under 60 seconds.
 
