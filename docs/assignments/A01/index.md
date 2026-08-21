@@ -40,9 +40,15 @@ ii.  State one assumption that makes the model valid for this product.
 Grips are curved and made with a strong piece of steel. They are additionally reinforced with rubber grips to maximize strength used on cutting pliers  
 
 &nbsp; c.  Take photographs of each component. Under each photograph, describe precisely how the geometry of that component affects its mechanical function.   
-![Fulcrum/Pivot Point](IMG.5898.jpeg): The geometry of this component provides the support to keep the two handles together and keep the pivot distance between the bite point short. This maximizes hand force from the handles.  
+![Fulcrum/Pivot Point](IMG_5898.jpeg): The geometry of this component provides the support to keep the two handles together and keep the pivot distance between the bite point short. This maximizes hand force from the handles.  
 
-![Handles](IMG.5897.jpeg): Handles cross diagonally over pivot point allowing for maximum leverage and mechanical advantage. Additionally reinforced with grips to help the user hold the device whilst cutting through material. It is mechanically more ergonomic for the human hand to squeeze a fist, rather than pull apart with two hands if the handle design was closed. This geometry is ideal for its purpose.  
+![Handles](IMG_5897.jpeg): Handles cross diagonally over pivot point allowing for maximum leverage and mechanical advantage. Additionally reinforced with grips to help the user hold the device whilst cutting through material. It is mechanically more ergonomic for the human hand to squeeze a fist, rather than pull apart with two hands if the handle design was closed. This geometry is ideal for its purpose.  
+
+![Resistance plates](IMG_5900.jpeg): These interlocking plates contribute additional force to keep the handles stable and in place during cutting, but also the elasticity to bounce back to its neutral position after use. This keeps the grips and handles steady and resistant. Design and geometry for these do not need to be greatly complex. A simple interlocking rectangle does the job.  
+
+![Biting surface](IMG_5901.jpeg): Pliers are equipped with a long biting surface perfect for stability when cutting, having a thick enough blade to cut through rubber and copper (like a wire). The geometry needed to be ideal for its case, if the blade was longer the plier could potentially not deliver as much power equally throughout the cutting surface. Distance to pivot point is short to maximize mechanical advantage and force from grips.  
+
+&nbsp; d.  Using patent research, identify the patent number and author(s).  
 
 
  
@@ -51,5 +57,5 @@ Grips are curved and made with a strong piece of steel. They are additionally re
 ## Decide
 
 
-## Communicate
-
+## Communicate  
+Check out my About me section! Located in the menu. 
