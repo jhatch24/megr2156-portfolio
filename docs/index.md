@@ -25,4 +25,9 @@ Use the navigation on the left to move between assignments.
 By A11, every design decision you defend should trace back to something you analyzed and communicated earlier in this site.
 
 ## Internship: Germany 2026  
+![Berlin Bundestag GAE trip](248badfc-4732-431f-b2ed-664e2a5690a1.jpeg)  
+GAE Berlin Trip: German Bundestag, Berlin  
+
+![Justin Georgia Commerce office munich](IMG_5253.HEIC)  
+GAE Munich Trip: State of Georgia European Commerce Office, Munich 
 
