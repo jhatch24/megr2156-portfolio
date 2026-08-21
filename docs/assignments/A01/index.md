@@ -3,7 +3,7 @@
 ## Objective
 Firstly, to break down and analyze other engineering portfolios with explicit detail to grasp the full understanding, concept, and perspective of a future user/viewer and how to design as efficient as possible. In this example, a website. Secondly, we were asked to repeat this process with a mechanical device with three or less components. The goal was for us to answer a series of questions about design related to physical principles and engineering functions to discover the intent behind engineering decisions. As well as to think backwards from the complete product to the patent. This allows us to understand the complete transparency of the design process, sensibility and challenges that come along with it. 
 
-## Analyze
+## **Analyze**
 ## Task A: Portfolio Analysis
 Github host: https://github.com/eddyizm  
 
