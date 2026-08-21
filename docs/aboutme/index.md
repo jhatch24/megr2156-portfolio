@@ -7,5 +7,5 @@ The engineer I am becoming is an intentionally all-rounded and versatile one. I 
 What does it mean to defend an engineering decision : and do you currently know how to do it?
 What I believe it means to defend an engineering decision is to know what the technical facts are, it's effects on the environment around it, it's ethical worth, and if the design is fundamentally worth fighting for when challenged. At this point in my academic career, I do not currently know how to do defend an engineering decision properly, but I hope throughout this semester this deficiency will grow exponentially into a critical skill for my engineering career. 
 # 
-I spent about a week working on this assignment to give myself time to adjust the website periodically and revise text throughly
+I spent about a week working on this assignment to give myself time to adjust the website periodically and revise text throughly.
 
