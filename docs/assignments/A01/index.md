@@ -70,6 +70,6 @@ I adjusted how the sections in the template for the assignment page were structu
 ## My Documentation Standard  
 I am committing to a standard of transparency and in-depth detail about my assignments and projects during this semester to help the user understand my logic, intent and reasoning behind engineering decisions, like this portfolio structure. Additionally, adjusting, and building on my portfolio everyday to make the portfolio increasingly more user-friendly as I learn new things every week from these assignments.  
 
-## Communicate  
+## **Communicate**  
 
-Check out my About me section! Located in the menu. 
+Check out my About Me section! Located in the menu. 
