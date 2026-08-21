@@ -53,12 +53,13 @@ Grips are curved and made with a strong piece of steel. They are additionally re
 ![Patent of Pliercutters](clippingplierpatent1951.png) Cutting Pliers Patent by Inventor Winsor Josselyn (1946)  
 Patent no.: US2605543A  
 
-i.  List at least two alternative solutions or devices that solve the same primary function.
-Diagonal Flush Cutters: wider jaws and spring loaded grip resistance
+i.  List at least two alternative solutions or devices that solve the same primary function.  
+Diagonal Flush Cutters: wider jaws and spring loaded grip resistance  
 Carpenters Pincers: Designed mainly for screws and nails  
 
 ii.  Identify one design decision the original engineer made : something you can see in the patent or geometry : and explain why you think they made that choice. 
-The shapes of the handles are built with the human fist and grip mechanism in mind. With a wide base distance between handles, gently swooping and intersecting at a narrow fulcrum. The design implies you put the device in one hand and squeeze. The ergonomic intent of the handle allows it to comfortably sit in your fist when using the tool, no matter which hand it is. Because you only need one hand to cut most materials because of the mechanical advantage and leverage one is achieving with this device. One can maybe use the other hand for another purpose like holding a flashlight or another tool. 
+The shapes of the handles are built with the human fist and grip mechanism in mind. With a wide base distance between handles, gently swooping and intersecting at a narrow fulcrum. The design implies you put the device in one hand and squeeze. The ergonomic intent of the handle allows it to comfortably sit in your fist when using the tool, no matter which hand it is. Because you only need one hand to cut most materials because of the mechanical advantage and leverage one is achieving with this device. One can maybe use the other hand for another purpose like holding a flashlight or another tool.  
+
 
 
 
