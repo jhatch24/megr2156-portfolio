@@ -40,7 +40,7 @@ ii.  State one assumption that makes the model valid for this product.
 Grips are curved and made with a strong piece of steel. They are additionally reinforced with rubber grips to maximize strength used on cutting pliers  
 
 &nbsp; c.  Take photographs of each component. Under each photograph, describe precisely how the geometry of that component affects its mechanical function.   
-![Fulcrum/Pivot Point](IMG_5898.jpeg): The geometry of this component provides the support to keep the two handles together and keep the pivot distance between the bite point short. This maximizes hand force from the handles.  
+![Fulcrum/Pivot Point](IMG_5898.jpeg) Fulcrum/Pivot Point: The geometry of this component provides the support to keep the two handles together and keep the pivot distance between the bite point short. This maximizes hand force from the handles.  
 
 ![Handles](IMG_5897.jpeg): Handles cross diagonally over pivot point allowing for maximum leverage and mechanical advantage. Additionally reinforced with grips to help the user hold the device whilst cutting through material. It is mechanically more ergonomic for the human hand to squeeze a fist, rather than pull apart with two hands if the handle design was closed. This geometry is ideal for its purpose.  
 
