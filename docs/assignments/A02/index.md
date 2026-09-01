@@ -1,7 +1,7 @@
 # A2 – Truss Stress Analysis
 
 ## **Objective**
-The objective of this assignment was to design a light weight planar truss using A500 structural steel or a similar steel with the same density. We were required to reinforce our design by taking the necessary engineering steps to calculate all the variables of our system. Secondly, model our truss in a CAD software to verify the analytical calculations we had done before modeling our truss. And finally, we are supposed to upload our workflow to our online portfolio with a detailed description of the steps and mistakes taken in each section.  
+The objective of this assignment was to design our own light weight planar truss using A500 structural steel or a similar steel with the same density. We were required to reinforce our design by taking the necessary engineering steps to calculate all the variables (symbolically and numerically) of our system based on our previous knowledge of stresses and strains. Secondly, model our truss in a CAD software to verify the analytical calculations we had done before modeling our truss. And finally, we are supposed to upload our workflow to our online portfolio with a detailed description of the steps and mistakes taken in each section.  
 
 ## **Analyze** 
 ## Design  
@@ -37,3 +37,8 @@ Finally, I was able to go through my calculations and solve for external and int
 
 ## **Communicate**
 My engineering lesson learned with this assignment was being able to reevaluate at any step and start back over and test ideas because this is the only way one comes to the most optimal solution. I also learned about different truss designs and their purposes, as well as what materials are commonly used to efficiently optimize yield strength whilst comparing the external stress of a load or loads. For example like in this assignment where two external forces are counter acting on different parts of the truss.  
+
+## Link to finish CAD product:  
+[Download SOLIDWORKS Assembly File](assets/)
+
+
