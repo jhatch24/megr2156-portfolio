@@ -10,10 +10,14 @@ When presented the problem with designing a truss, my first immediate instinct w
 After drawing my prototype, I realized that my system was not optimized enough for the task at hand. I listed out my pros and cons of this design and started drawing prototype 2 which would eventually become my final design. I took inspiration from Warren Truss and inverted the design to adapt to the constraints. By doing this, my top chord would completely span parallel across to the other edge, as if cars or people were walking across this “bridge”.  
 
 ## Calculations of Truss  
+![pg2](IMG_0191.jpeg)  
+![pg3](IMG_0192.jpeg)  
 The largest internal force I calculated on my truss was member DE in tension at +16.02kN. After identifying this member I created a list of knowns and unknowns to properly categorize what variables I needed to solve for based on the information I was already given. I solved for the minimum cross-sectional area symbolically first by using the yield strength, largest internal force, and Safety factor. Setting them equal, one can isolate the minimum area on the left side of the equation to solve for it. I properly followed this by plugging in the numbers into my equation to calculate the minimum cross sectional area in metric units and imperial units.  
 To approximate the weight of the truss, I first solved for the total perimeter of the truss, which gave me a variable to use in my volume calculation, which then led to me being able to the use density given to solve for the mass, and lastly multiplying it with the gravitational constant to reach the sum of the weight. 
 
 ## Calculations of Pin and Shear  
+![pg4](IMG_0193.jpeg)  
+![pg5](IMG_0194.jpeg)  
 Firstly, I started with listing my known and unknown quantities that I could substitute in my shear equations to find the exact values I wanted. Values I was looking for were, the allowable shear, cross sectional area of the pin, diameter of the pin, and the weight of the pins. Similarly to the last section, the equations built on one another allowed me to find all the variables required for this assignment. Secondly, I drew two Free body diagrams, one with a point and the other of a cylinder to represent the pin and arrows to represent the maximum load on the pin from internal forces. I determined the approximate combined weight of the pins was 0.155lbf, since we were given imperial metrics values for density.  
 
 ## Design in Solidworks  
