@@ -23,7 +23,6 @@ Firstly, I started with listing my known and unknown quantities that I could sub
 ## Design in Solidworks  
 ![pg6](IMG_0195.jpeg)  
 To generate a 3D model of my designed Truss I chose Solidworks since it is the CAD program I have the most experience with that is immediately accessible to me right now. Otherwise I would have used Siemens Solid Edge. After a brief introductory period familiarizing myself with the layout and UI of tools I was ready to begin modeling.  
-![pin1](
 I started off modeling my first prototype for my members that was a simple double closed ended member. Taking inspiration from a closed end hand wrench, I figured this would be a good starting point.  
 After a little bit, I began to evaluate my design because of the process during assembly. My truss members would not be perfectly aligned with one another but stacked besides each other, especially at joints with more than 2 jointed members.  
 This is where I redesigned my truss members with an open ended design like fork, where closed ended members could be joined with a pin between the two prongs. This way I only have to make one type of truss member and just change the length to hold to my design intentions. This worked great because I could join all the members together like a chain.  
