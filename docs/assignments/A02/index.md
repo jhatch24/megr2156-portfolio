@@ -22,15 +22,9 @@ Firstly, I started with listing my known and unknown quantities that I could sub
 
 ## Design in Solidworks  
 ![pg6](IMG_0195.jpeg)  
-<!This is my CAD screenshots>
-<iframe src="./A2 truss screenshots.pdf" width="100%" height="900px" style="border: 2px solid #ccc; border-radius: 4px;">
-    <p>Your browser does not support embedded PDFs. 
-       <a href="./A2 truss screenshots.pdf">Click here to download and view the file instead.</a>
-    </p>
-</iframe>
-
-***
-
+<object data="A2_truss_screenshots.pdf" type="application/pdf" width="100%" height="800px">
+    <p>Your browser does not support inline PDFs. <a href="A2_truss_screenshots.pdf">Click here to view or download the A2 truss screenshots PDF</a>.</p>
+</object>
 To generate a 3D model of my designed Truss I chose Solidworks since it is the CAD program I have the most experience with that is immediately accessible to me right now. Otherwise I would have used Siemens Solid Edge. After a brief introductory period familiarizing myself with the layout and UI of tools I was ready to begin modeling.  
 I started off modeling my first prototype for my members that was a simple double closed ended member. Taking inspiration from a closed end hand wrench, I figured this would be a good starting point.  
 After a little bit, I began to evaluate my design because of the process during assembly. My truss members would not be perfectly aligned with one another but stacked besides each other, especially at joints with more than 2 jointed members.  
