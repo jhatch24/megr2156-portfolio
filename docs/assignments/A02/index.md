@@ -36,7 +36,7 @@ After putting my members together in assembly, I evaluated the mass properties g
 Finally, I was able to go through my calculations and solve for external and internal forces symbolically and numerically by using the method of joints to provide an in-depth Free body diagram of my truss analyzed at each point.  
 
 ## **Communicate**
-My engineering lesson learned with this assignment was being able to reevaluate at any step and start back over and test ideas because this is the only way one comes to the most optimal solution. I also learned about different truss designs and their purposes, as well as what materials are commonly used to efficiently optimize yield strength whilst comparing the external stress of a load or loads. For example like in this assignment where two external forces are counter acting on different parts of the truss.  
+My engineering lesson learned with this assignment was being able to reevaluate at any step and start back over and test ideas because this is the only way one comes to the most optimal solution. I also learned about different truss designs and their purposes, as well as what materials are commonly used to efficiently optimize yield strength whilst comparing the external stress of a load or loads. For example like in this assignment where two external forces are counter acting on different parts of the truss. It took me over the course of the week to finish this assignment. Around 20 hours were spent on this assignment. This includes revisions of work, uploaded assignments, updating my portfolio, and assmebling my CAD parts and files.  
 
 ## Link to finish CAD product:  
 [Download SOLIDWORKS Assembly File](assets/asmb2_w-o_joints_A2_Sodesign.SLDASM)  
