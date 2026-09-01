@@ -4,7 +4,7 @@
 The objective of this assignment was to design our own light weight planar truss using A500 structural steel or a similar steel with the same density. We were required to reinforce our design by taking the necessary engineering steps to calculate all the variables (symbolically and numerically) of our system based on our previous knowledge of stresses and strains. Secondly, model our truss in a CAD software to verify the analytical calculations we had done before modeling our truss. And finally, we are supposed to upload our workflow to our online portfolio with a detailed description of the steps and mistakes taken in each section.  
 
 ## **Analyze** 
-## Design  
+## Design of Truss Geometry      
 ![pg1](IMG_0190.jpeg)
 When presented the problem with designing a truss, my first immediate instinct was to search for real life examples of similar truss systems. With simplicity and weight saving in mind, I initially opted for a flat rectangular parallel chord as it seemed it would be the most structurally stable and symmetrical.  
 After drawing my prototype, I realized that my system was not optimized enough for the task at hand. I listed out my pros and cons of this design and started drawing prototype 2 which would eventually become my final design. I took inspiration from Warren Truss and inverted the design to adapt to the constraints. By doing this, my top chord would completely span parallel across to the other edge, as if cars or people were walking across this “bridge”.  
@@ -43,7 +43,3 @@ My engineering lesson learned with this assignment was being able to reevaluate 
 PDF File:  <object data="asmb2_w_joints_A2_Sodesign.pdf" type="application/pdf" width="100%" height="800px">
     <p>Your browser does not support inline PDFs. <a href="asmb2_w_joints_A2_Sodesign.pdf">Click here to view or download the A2 truss screenshots PDF</a>.</p>
 </object>
-
-
-
-
