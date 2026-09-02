@@ -39,7 +39,7 @@ Finally, I was able to go through my calculations and solve for external and int
 My engineering lesson learned with this assignment was being able to reevaluate at any step and start back over and test ideas because this is the only way one comes to the most optimal solution. I also learned about different truss designs and their purposes, as well as what materials are commonly used to efficiently optimize yield strength whilst comparing the external stress of a load or loads. For example like in this assignment where two external forces are counter acting on different parts of the truss. It took me over the course of the week to finish this assignment. Around 20 hours were spent on this assignment. This includes revisions of work, uploaded assignments, updating my portfolio, and assmebling my CAD parts and files.  
 
 ## Link to finish CAD product:  
-[Download SOLIDWORKS Assembly File](assets/asmb2_w-o_joints_A2_Sodesign.SLDASM)  
+<a href="_assembly.zip" download>Download SolidWorks Assembly</a>
 PDF File:  <object data="asmb2_w_joints_A2_Sodesign.pdf" type="application/pdf" width="100%" height="800px">
     <p>Your browser does not support inline PDFs. <a href="asmb2_w_joints_A2_Sodesign.pdf">Click here to view or download the A2 truss screenshots PDF</a>.</p>
 </object>
