@@ -42,4 +42,4 @@ My engineering lesson learned with this assignment was being able to reevaluate 
 <a href="_assembly.zip" download>Download SolidWorks Assembly</a>
 PDF File:  <object data="asmb2_w_joints_A2_Sodesign.pdf" type="application/pdf" width="100%" height="800px">
     <p>Your browser does not support inline PDFs. <a href="asmb2_w_joints_A2_Sodesign.pdf">Click here to view or download the A2 truss screenshots PDF</a>.</p>
-</object>
+</object>  
