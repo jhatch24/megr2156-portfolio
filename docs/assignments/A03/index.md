@@ -9,10 +9,16 @@ We were asked to design a bar which has a circular cross section where the value
 ![pg2](IMG_0198.jpeg)  
 These are detailed calculations about how I found the deflection, length, and Area. I chose 1 inch in diameter as my "d" value because it was simple and made my calculations clean. Additionally, I chose my Force to be 400 lbf because it was in between the recommended range for Force. Same thought process was applied for picking the Elasticity Modulus of my Aluminum beam. I picked 10x10^6 psi because it was an even number and make my calculations easy to work through.  
   
-Parametric Design process and Simulation in CAD:  
+Parametric Design process and FEA Simulation in CAD:  
 <object data="A3_parametric_design_screenshots.pdf" type="application/pdf" width="100%" height="800px">
     <p>Your browser does not support inline PDFs. <a href="A3_parametric_design_screenshots.pdf">Click here to view or download the A3 parametric design screenshots PDF</a>.</p>
 </object>  
+  
+Solidworks Simulation FEA Report:  
+<object data="A3_FEA_Solidworks.pdf" type="application/pdf" width="100%" height="800px">
+    <p>Your browser does not support inline PDFs. <a href="A3_FEA_Solidworks.pdf">Click here to view or download the A3 parametric design screenshots PDF</a>.</p>
+</object>  
+  
 ## **Decide**  
 I would trust the hand calculations more than a CAD model simulation because the hand calculations are given off single values and give a foundation and guide towards a parametric design. The CAD simulation should be used as a visualization tool and analyze and verify that your hand calculations are correct and accurately represent what one is trying to design.    
 
