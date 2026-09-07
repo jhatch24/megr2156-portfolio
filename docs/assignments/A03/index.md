@@ -20,7 +20,7 @@ Solidworks Simulation FEA Report:
 </object>  
   
 ## **Decide**  
-I would trust the hand calculations more than a CAD model simulation because the hand calculations are solved based on single values and give a foundation and guide towards a parametric design. The CAD simulation should be used as a visualization tool, to analyze and verify that your hand calculations are correct and accurately represent a system one is trying to design. Although, I would not be completely reliant on hand calculations only, especially when I have such a great tool at my disposal to represent a visual of my model.  
+I would trust the hand calculations more than a CAD model simulation because the hand calculations are solved based on single values and give a foundation and guide towards a parametric design. The CAD simulation should be used as a visualization tool, to analyze and verify that your hand calculations are correct and accurately represent a system one is trying to design. Although, I would not be completely reliant on just hand calculations, especially when I have such a great tool at my disposal to represent a visual of my model.  
 
 ## **Communicate**
 Some lessons learned while working on this assignment was learning how to run an FEA test in Solidworks with parameters set in the equation tab. I also learned how to evaluate these properties and compare them with calculations by hand, and FEA calculations in Solidworks. I started this assignment Wednesday and completed my final revisions Monday. The total time I worked on this assignment was around 8 hours.  
