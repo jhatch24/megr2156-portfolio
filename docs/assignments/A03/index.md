@@ -18,7 +18,7 @@ Solidworks Simulation FEA Report:
 <object data="A3_FEA_Solidworks.pdf" type="application/pdf" width="100%" height="800px">
     <p>Your browser does not support inline PDFs. <a href="A3_FEA_Solidworks.pdf">Click here to view or download the A3 parametric design screenshots PDF</a>.</p>
 </object>  
-  
+My maximum stress is lower than the strength of Aluminum (Sy = 40). My calculated maximum stress was 0.509 ksi. Which ended up giving me a safety factor of 78.54. (SF = 78.54)   
 ## **Decide**  
 I would trust the hand calculations more than a CAD model simulation because the hand calculations are solved based on single values and give a foundation and guide towards a parametric design. The CAD simulation should be used as a visualization tool, to analyze and verify that your hand calculations are correct and accurately represent a system one is trying to design. Although, I would not be completely reliant on just hand calculations, especially when I have such a great tool at my disposal to represent a visual of my model.  
 
