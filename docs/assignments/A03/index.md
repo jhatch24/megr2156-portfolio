@@ -7,7 +7,7 @@ We were asked to design a bar which has a circular cross section where the value
 ## Parametric Design  
 ![pg1](IMG_0197.jpeg)  
 ![pg2](IMG_0198.jpeg)  
-These are detailed calculations about how I found the deflection, length, and Area. I chose 1 inch in diameter as my "d" value because it was simple and made my calculations clean. Additionally, I chose my Force to be 400 lbf because it was in between the recommended range for Force. Same thought process was applied for picking the Elasticity Modulus of my Aluminum beam. I picked 10x10^6 psi because it was an even number and make my calculations easy to work through.  
+These are detailed calculations about how I found the deflection, length, and Area. I chose 1 inch in diameter as my "d" value because it was simple and made my calculations clean. Additionally, I chose my Force to be 400 lbf because it was in between the recommended range for Force. Same thought process was applied for picking the Elasticity Modulus of my Aluminum beam. I picked 10x10^6 psi because it was an even number and make my calculations easy to work through. After working through all my calculations solving for Area and Inertia. I used the recommended formulas in the Machinery's Handbook to solve for Length of my beam. I was now ready to start modeling my system in CAD and set parameters to test my beam.   
   
 Parametric Design process and FEA Simulation in CAD:  
 <object data="A3_parametric_design_screenshots.pdf" type="application/pdf" width="100%" height="800px">
