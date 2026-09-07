@@ -24,3 +24,4 @@ I would trust the hand calculations more than a CAD model simulation because the
 
 ## **Communicate**
 Some lessons learned while working on this assignment was learning how to run an FEA test in Solidworks with parameters set in the equation tab. I also learned how to evaluate these properties and compare them with calculations by hand, and FEA calculations in Solidworks. I started this assignment Wednesday and completed my final revisions Monday. The total time I worked on this assignment was around 8 hours.  
+<a href="_assembly.zip" download>Download SolidWorks Assembly</a>   
