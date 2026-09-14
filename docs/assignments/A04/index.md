@@ -26,4 +26,4 @@ Link to Solidworks Part A4: Motor Mount:
 
 
 ## **Communicate**  
-
+A lesson I learned during this project was the value of symbolically solving for variables with no numbers or values. At first, I struggled to create formulas on my own, not understanding why we can't just plug in numbers and get the answer. Little did I know the truth to engineering lied much deeper than that. Writing formulas from scratch is the opus of designing parametric modeling and having the flexibility to adjust values when needed based on different parameters, like factor of safety or stiffness. Having the foundation equation for what you are designing for and being able to manipulate it feels very satisfying once one is able to do it correctly with a successful model as the outcome. All in all this assignment took me about 9 hours spread out over the course of multiple days. 
