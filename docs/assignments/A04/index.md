@@ -17,7 +17,7 @@ The thought and design process was very similar for feature 2, hence why there i
 You can find my isometric view, and free body diagrams within my work on features 1 and 2 above.  
 
 ## CAD Model (Parametric)  
-Here are screenshots of my design process during the CAD modeling part of this assignment. In this embedded pdf you can find the paths I took when 3D modelling this motor mount and converting it from my sketch into a physical one piece part.  
+Here are screenshots of my design process during the CAD modeling part of this assignment. In this embedded pdf you can find the paths I took when 3D modelling this motor mount and converting it from my sketch into a physical one piece part and used parametric modeling techniques where it was applicable during my design process in Soldiworks.  
 <object data="A4_CAD_screenshots.pdf" type="application/pdf" width="100%" height="800px">
     <p>Your browser does not support inline PDFs. <a href="A4_CAD_screenshots.pdf">Click here to view or download the A3 parametric design screenshots PDF</a>.</p>
 </object>  
