@@ -23,7 +23,7 @@ Link to Solidworks Part A4: Motor Mount:
 <a href="A3_FEA_beam.SLDPRT" download>Download SolidWorks Part</a>  
 
 ## **Decide**  
-
+My very first step during this design process was to analyze the guidelines step by step in-depth to get a full grasp of what it is I have to accomplish and show with this assignment. After this, I began to look at the motors dimensions were, and how this motor could be used. I felt the purpose of this particular motor dictates and guides the process of parametric design further step by step rather than just making a motor mount that is screwed into a wall with aimless direction. Having a good idea on where I should start, I went ahead with my calculations and drawing out potential prototypes for my dimensions of cross-sectional area of my motor mount.
 
 ## **Communicate**  
 A lesson I learned during this project was the value of symbolically solving for variables with no numbers or values. At first, I struggled to create formulas on my own, not understanding why we can't just plug in numbers and get the answer. Little did I know the truth to engineering lied much deeper than that. Writing formulas from scratch is the opus of designing parametric modeling and having the flexibility to adjust values when needed based on different parameters, like factor of safety or stiffness. Having the foundation equation for what you are designing for and being able to manipulate it feels very satisfying once one is able to do it correctly with a successful model as the outcome. All in all this assignment took me about 9 hours spread out over the course of multiple days. 
