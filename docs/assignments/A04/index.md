@@ -11,12 +11,16 @@ The objective of this assignment was for us obtain working knowledge by designin
 ![Feature2](IMG_0210.jpeg)  
 
 ## Sketch  
+You can find my Isometric view, and Free body diagrams within my work on features 1 and 2 above.  
 
 ## CAD Model (Parametric)  
 Here are screenshots of my design process during the CAD modeling part of this assignment. In this embedded pdf you can find the paths I took when 3D modelling this motor mount and converting it from my sketch into a physical one piece part.  
 <object data="A4_CAD_screenshots.pdf" type="application/pdf" width="100%" height="800px">
     <p>Your browser does not support inline PDFs. <a href="A4_CAD_screenshots.pdf">Click here to view or download the A3 parametric design screenshots PDF</a>.</p>
 </object>  
+
+Link to Solidworks Part A4: Motor Mount:  
+<a href="A3_FEA_beam.SLDPRT" download>Download SolidWorks Part</a>  
 
 ## **Decide**  
 
