@@ -8,6 +8,7 @@ The objective of this assignment was for us obtain working knowledge by designin
 ![Feature1](IMG_0209.jpeg)  
 When designing feature 1, the material I chose has a lot of significance in how it minimizes deflection. With a thick enough, almost stubby base for the motor, the mount will be able to withstand a lot of weight from a heavy stepper motor with big gears like this one. Additionally, have a shorter thicker base saves material and makes the axial length not as long leading to a lower moment. This means the its inertia and resistance to move will be significantly increased. 
 Secondly, I chose PLA because from all the materials listed that we could make our motor mount out of, PLA had the highest density and Elasticity modulus making it extremely durable. This material was also available in Solidworks so it was easier to predict how this motor mount would performance with the heavy weight of the motor, fatigue from vibrations as well as having a great reactionary force with the 4 screws in the wall.  
+Whilst designing the dimensions of feature 1, the goal was to give the mounting plate enough "meat" of the sides to support the heavy motor attached to it. This is why I chose 30mm x 30mm for my surface area because it was nice clean number and 8mm^2 of area was enough to handle the large stepper motor from the sides because of the center imprint having less material.  
 
 ## Feature 2  
 ![Feature2](IMG_0210.jpeg)  
