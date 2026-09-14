@@ -10,6 +10,9 @@ The objective of this assignment was for us obtain working knowledge by designin
 ## Feature 2  
 ![Feature2](IMG_0210.jpeg)  
 
+## Sketch  
+
+## CAD Model (Parametric)  
 
 ## **Decide**  
 
