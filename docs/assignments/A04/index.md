@@ -13,6 +13,10 @@ The objective of this assignment was for us obtain working knowledge by designin
 ## Sketch  
 
 ## CAD Model (Parametric)  
+Here are screenshots of my design process during the CAD modeling part of this assignment. In this embedded pdf you can find the paths I took when 3D modelling this motor mount and converting it from my sketch into a physical one piece part.  
+<object data="A4_CAD_screenshots.pdf" type="application/pdf" width="100%" height="800px">
+    <p>Your browser does not support inline PDFs. <a href="A4_CAD_screenshots.pdf">Click here to view or download the A3 parametric design screenshots PDF</a>.</p>
+</object>  
 
 ## **Decide**  
 
