@@ -1,13 +1,13 @@
-# A5 – [Topic]
+# A5 – [Bracket Design]
 
-## Objective
-
-
-## Analyze
+## **Objective**
 
 
-## Decide
+## **Analyze**
 
 
-## Communicate
+## **Decide**
+
+
+## **Communicate**
 
