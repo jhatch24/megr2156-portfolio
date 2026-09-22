@@ -9,11 +9,13 @@ We are asked to design with parameters of a Safety Factor of 4 and an applied lo
 
 ## **Analyze**  
 ## Calculating Dimensions from stress analysis  
-
+![Feature1](IMG_0211.jpeg)  
+![Feature1](IMG_0212.jpeg)  
 ## Calculating Dimensions from stiffness analysis  
-
+![Feature1](IMG_0213.jpeg)  
+![Feature1](IMG_0214.jpeg)  
 ## Generate Multiview Sketches  
-
+![Feature1](IMG_0215.jpeg)  
 ## **Decide**
 
 
