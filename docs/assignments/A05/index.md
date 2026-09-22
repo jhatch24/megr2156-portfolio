@@ -7,11 +7,17 @@ The objective of this assignment is to design a bracket using the concept design
 “c” is where accurate location and minimum play is desired  
 We are asked to design with parameters of a Safety Factor of 4 and an applied load in-between 500 - 800lbf, made from a metal of our choice. Also being asked to conduct stress analysis to determine structural features, Generate FBDs to visualize forces for each feature, Identify known and unknown variables, Perform elasticity analysis and establish deflection constraints, compare stress and elasticity, provide Multiview sketches, and reflect on the assignment and any key engineering lessons learned.  
 
-## **Analyze**
+## **Analyze**  
+## Calculating Dimensions from stress analysis  
 
+## Calculating Dimensions from stiffness analysis  
+
+## Generate Multiview Sketches  
 
 ## **Decide**
 
 
-## **Communicate**
+## **Communicate**  
+## Lessons Learned  
+
 
