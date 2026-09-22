@@ -32,4 +32,6 @@ I caught an error with a decimal point whilst doing my calculations for my numer
 Assumption Sensitivity:  
 	One assumption I made negligible was that all the features were essentially a cantilever beam at a fixed point which in reality is obviously not true, but for this assignment with small values and other additional negligible assumptions added in the instructions it was easy to add other non-essential factors. If my assumptions were wrong or different, I would change how the features are separated for simplicity, for example 3 parts instead of 5.  
 
+	It took me about 6 hours to finish this assignment spread out over the course of the week. 
+
 
