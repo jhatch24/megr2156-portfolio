@@ -21,5 +21,14 @@ We are asked to design with parameters of a Safety Factor of 4 and an applied lo
 
 ## **Communicate**  
 ## Lessons Learned  
+Governing Failure Mode:  
+Comparing Feature A’s dimensions governed by stress and stiffness were vastly different. For stress, the value was nearly double that of the stiffness. I would absolutely use a thicker round feature for my bracket because the material is softer as well as adding an additional factor of safety on top of the already provided base line. A product can not be too safe if it's justified. Additionally, a major on the weight enters the bracket sources from this round cantilever beam. Therefore to ensure functionality the diameter must be large enough.  
+
+Error Propagation:  
+The value of the forces from feature 1 carried into the math of feature 5 via the way of the moment on the part. This important aspect allowed me to determine how stiff this part actually could be in relation to the according dimensions.
+I caught an error with a decimal point whilst doing my calculations for my numerical plug in. Thankfully I caught it soon enough before it caused all my calculations to be wrong.  
+
+Assumption Sensitivity:  
+	One assumption I made negligible was that all the features were essentially a cantilever beam at a fixed point which in reality is obviously not true, but for this assignment with small values and other additional negligible assumptions added in the instructions it was easy to add other non-essential factors. If my assumptions were wrong or different, I would change how the features are separated for simplicity, for example 3 parts instead of 5.  
 
 
