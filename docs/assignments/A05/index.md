@@ -16,8 +16,9 @@ We are asked to design with parameters of a Safety Factor of 4 and an applied lo
 ![Feature1](IMG_0214.jpeg)  
 ## Generate Multiview Sketches  
 ![Feature1](IMG_0215.jpeg)  
+
 ## **Decide**
-For my personal assumptions and factors given the range of materials and forces, I opted for Aluminum 6061-T6 because it yields a high strength perfect for our given safety factor to give me more flexibility when finding a range for my dimensions, and additionally it also has a higher modulus of elasticity than the rest of the materials provided in the instructions. Secondly, I chose 600 lbf because it was an even number and because we have a symmetric part the values of the forces would be evenly distributed. Additionally, it was lighter than 800 which would also give me more wiggle room when designing dimensions that fit the parameters provided in the instructions.  
+For my personal assumptions and factors given the range of materials and forces, I opted for Aluminum 6061-T6 because it yields a high strength perfect for our given safety factor to give me more flexibility when finding a range for my dimensions, and additionally it also has a higher modulus of elasticity than the rest of the materials provided in the instructions. Secondly, I chose 600 lbf because it was an even number and because we have a symmetric part the values of the forces would be evenly distributed. Additionally, it was lighter than 800 lbf which would also give me more wiggle room when designing dimensions that fit the parameters provided in the instructions.  
 
 ## **Communicate**  
 ## Lessons Learned  
