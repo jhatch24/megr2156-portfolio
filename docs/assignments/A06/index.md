@@ -5,7 +5,12 @@ The objective of this assignment is to improve and continue upon last week's ass
 
 ## **Analyze**  
 To see hand calculations comparing purpose design of Stress and Strain, please refer to Assignment > A5.  
-
+![Feature1](IMG_0217.jpeg)  
+![Feature1](IMG_0218.jpeg)  
+![Feature1](IMG_0219.jpeg)  
+![Feature1](IMG_0220.jpeg)  
+![Feature1](IMG_0221.jpeg)  
+![Feature1](IMG_0222.jpeg)  
 The analytical equation I used in my parametric design for this bracket was Stress. I used stress to drive feature A as it would have the most load and direct stress from the force applied downward of the strap. I expressed that equation directly in CAD by setting my parameters for allowable stress and other limiting factors like the force applied and solved for my dimension for diameter of Feature A that way. I solved it on paper first, but ultimately to save time, I typed in the values I solved by hand to allow me to streamline the process of getting this assignment done quicker as I was limited on time during the course of this week. I had to change some minor calculations that did not impede on the model itself, but were easily solved by hand and readjusted to better fit the tolerances asked of by the assignment, drawing, and situation at hand.  
 
 ## **Decide**  
