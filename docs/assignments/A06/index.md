@@ -19,5 +19,5 @@ I applied a tighter tolerance to the dimensions of the T-bracket because of its 
 ## **Communicate**  
 A couple of engineering lessons I learned over the course of both of these assignments during the past 2 weeks was to spend more time thinking about how precise my calculations need to be as well as sketching with accurate parameters to allow myself to naturally second guess and give myself time to come to right conclusion as well as completing right according to the instructions the first time around. I spent about 4 hours on this assignment between completing A5 and starting this assignment. This week I attempted to dedicate more time to having a better buffer of time between when I start and submit the assignment to eliminate last minute stress. Lastly, the last engineering lesson I learned was to not install CAD software overseas because the drawing language by default might be set to the language of the country you were staying in. My drawing language has defaulted to German, and I will have to fix it, but fortunately I speak German so this won’t be an issue.  
 
-CAD Part:<a href="A3_FEA_beam.SLDPRT" download>Download SolidWorks Part</a>
-CAD Drawing:<a href="A3_FEA_beam.SLDPRT" download>Download SolidWorks Part</a>
+CAD Part:<a href="CAD_A6_Bracket.SLDPRT" download>Download SolidWorks Part</a>  
+CAD Drawing:<a href="CAD_A6_Bracket.SLDPRT" download>Download SolidWorks Drawing</a>  
