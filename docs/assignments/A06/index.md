@@ -21,3 +21,4 @@ A couple of engineering lessons I learned over the course of both of these assig
 
 CAD Part: <a href="CAD_A6_Bracket.SLDPRT" download>Download SolidWorks Part</a>  
 CAD Drawing: <a href="CAD_A6_Bracket.SLDPRT" download>Download SolidWorks Drawing</a>  
+  
