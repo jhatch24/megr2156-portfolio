@@ -9,6 +9,8 @@ Computations for each design to determine converengence of less than 7 % differe
 ![Feature1](IMG_0264.jpeg)  
 ![Feature1](IMG_0265.jpeg)  
 ![Feature1](IMG_0266.jpeg)  
+
+A7 Screenshots of different meshes used throughout the design process to determine convergence:  
 <object data="A7DesignProcedureResults.pdf" type="application/pdf" width="100%" height="800px">
     <p>Your browser does not support inline PDFs. <a href="A7DesignProcedureResults.pdf">Click here to view or download the A3 parametric design screenshots PDF</a>.</p>
 </object>  
