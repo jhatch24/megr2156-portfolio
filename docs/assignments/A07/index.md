@@ -26,6 +26,6 @@ I decided that I was going to use Design 3 as my final design for my motor mount
 In total over the course of the week I spent around 8 hours doing calculations, designing, running simulation loops multiple times for each design iteration, and lastly writing and updating page accurately represent my assignment and research. 
 
 ## Links to CAD files  
-Design 1: <a href="A3_FEA_beam.SLDPRT" download>Download SolidWorks Design 1</a>  
-Design 2: <a href="A3_FEA_beam.SLDPRT" download>Download SolidWorks Design 2</a>  
-(Final) Design 3: <a href="A3_FEA_beam.SLDPRT" download>Download SolidWorks Design 3</a>  
+Design 1: <a href="CAD_A6_Bracket.STEP" download>Download SolidWorks Design 1</a>  
+Design 2: <a href="CAD_A6_Bracket_Design2.STEP" download>Download SolidWorks Design 2</a>  
+(Final) Design 3: <a href="CAD_A7_Bracket_Design3.STEP" download>Download SolidWorks Design 3</a>  
