@@ -23,7 +23,7 @@ Tabulation of each outer-loop iteration for the following metrics:
 I decided that I was going to use Design 3 as my final design for my motor mount because it demonstrated light weight capabilities, underwent the maximum deflection and stress compared to the first two design loops, as well as is the part with the highest safety factor amongst the three. 
 
 ## **Communicate**  
-In total over the course of the week I spent around 8 hours doing calculations, designing, running simulation loops multiple times for each design iteration, and lastly writing and updating page accurately represent my assignment and research. 
+In total over the course of the week I spent around 8 hours doing calculations, designing, running simulation loops multiple times for each design iteration, and lastly writing and updating page accurately represent my assignment and research. I believe the key engineering lessons learnt during this process was to not hold back on simulating a part to failure to truly test its boundaries, as well as learning to think about why I am actually drawing lines and getting rid of material. Each decision has an impact and must be throughout thoroughly because safety can be at risk.  
 
 ## Links to CAD files  
 Design 1: <a href="CAD_A6_Bracket.STEP" download>Download SolidWorks Design 1</a>  
