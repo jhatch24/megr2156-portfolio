@@ -15,6 +15,7 @@ Computations for each design to determine converengence of less than 7 % differe
     <p>Your browser does not support inline PDFs. <a href="A7DesignProcedureResults.pdf">Click here to view or download the A3 parametric design screenshots PDF</a>.</p>
 </object>  
 
+## Final tabulation for critical metrics throughout design process  
 Tabulation of each outer-loop iteration for the following metrics:  
 ![Feature1](IMG_0267.jpeg)  
 
