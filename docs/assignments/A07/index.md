@@ -43,3 +43,6 @@ Design 2: <a href="CAD_A6_Bracket_Design2.STEP" download>Download SolidWorks Des
 (Final) Design 3: <a href="CAD_A7_Bracket_Design3.STEP" download>Download SolidWorks Design 3</a>  
 
 
+
+
+
