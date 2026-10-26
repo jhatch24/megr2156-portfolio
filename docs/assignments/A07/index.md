@@ -5,14 +5,15 @@ The main objective of this assignment is to use Finite Element Analysis to impro
 
 ## Analyze  
 Firstly, I started by running a static simulation in Solidworks for my first iteration of my design and seeing where my base line was. This was purely to see where I could improve, simulate my part to failure, and see where I optimize the overall geometry of my part.  
-![Feature1](IMG_0209.jpeg)  
-![Feature1](IMG_0209.jpeg)  
-![Feature1](IMG_0209.jpeg)  
-<object data="A4_CAD_screenshots.pdf" type="application/pdf" width="100%" height="800px">
-    <p>Your browser does not support inline PDFs. <a href="A4_CAD_screenshots.pdf">Click here to view or download the A3 parametric design screenshots PDF</a>.</p>
+Computations for each design to determine converengence of less than 7 % difference between each FEA mesh changes.  
+![Feature1](IMG_0264.jpeg)  
+![Feature1](IMG_0265.jpeg)  
+![Feature1](IMG_0266.jpeg)  
+<object data="A7DesignProcedureResults.pdf" type="application/pdf" width="100%" height="800px">
+    <p>Your browser does not support inline PDFs. <a href="A7DesignProcedureResults.pdf">Click here to view or download the A3 parametric design screenshots PDF</a>.</p>
 </object>  
-## Decide
+## Decide  
 
 
-## Communicate
+## Communicate  
 
