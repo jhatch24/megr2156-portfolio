@@ -12,12 +12,15 @@ Computations for each design to determine converengence of less than 7 % differe
 
 ## Design 1  
 ![Feature1](Design_1.jpeg)  
+Base design for A5 and A6  
 
 ## Design 2  
 ![Feature1](Design2.jpeg)  
+Reduced weight, thickened feature 2 to reduce stress, added fillet at the top of feature 2 to better support the load, reduced material from features 3,4,5.  
 
 ## Design 3  
 ![Feature1](Design3.jpeg)  
+Adjusted height of feature 1 on feature 2 to allow for less moment on the part, reducing stress and deflection significantly, added supports to additionally reduce deformation at the bottom of feature 1 where load was applied to make it harder to bend. Also looks more aesthetically pleasing.  
 
 ## A7 Documented design procedure  
 <object data="A7DesignProcedureResults.pdf" type="application/pdf" width="100%" height="800px">
