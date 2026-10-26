@@ -14,6 +14,10 @@ A7 Screenshots of different meshes used throughout the design process to determi
 <object data="A7DesignProcedureResults.pdf" type="application/pdf" width="100%" height="800px">
     <p>Your browser does not support inline PDFs. <a href="A7DesignProcedureResults.pdf">Click here to view or download the A3 parametric design screenshots PDF</a>.</p>
 </object>  
+
+Tabulation of each outer-loop iteration for the following metrics:  
+![Feature1](IMG_0267.jpeg)  
+
 ## Decide  
 
 
