@@ -10,6 +10,15 @@ Computations for each design to determine converengence of less than 7 % differe
 ![Feature1](IMG_0265.jpeg)  
 ![Feature1](IMG_0266.jpeg)  
 
+## Design 1  
+![Feature1](Design_1.jpeg)  
+
+## Design 2  
+![Feature1](Design2.jpeg)  
+
+## Design 3  
+![Feature1](Design3.jpeg)  
+
 ## A7 Documented design procedure  
 <object data="A7DesignProcedureResults.pdf" type="application/pdf" width="100%" height="800px">
     <p>Your browser does not support inline PDFs. <a href="A7DesignProcedureResults.pdf">Click here to view or download the A3 parametric design screenshots PDF</a>.</p>
