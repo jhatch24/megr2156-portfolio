@@ -30,13 +30,13 @@ Within this PDF below includes pictures of the different design approaches, as w
     <p>Your browser does not support inline PDFs. <a href="A8_Procedure_Progress.pdf">Click here to view or download the A8_Procedure_Progress PDF</a>.</p>
 </object>  
 
-## Decide  
+## Decide   
 For my final design I opted for a flush glued lid (with a gasket) to sit against the gearbox. Given more time I would have liked to optimized a bit more in regards to the size of the gearbox to make it more visually satisfying with the gears inside with an appropriate size ratio. I also would have liked to run an FEA on my design to eliminate high stress areas by changing the geometry. Whilst in this one, deflection and safety factor weren't as important it is still good insight to have whilst designing a product and be able to think of the many different scenarios it could be applied to where such factors might be considered. Lastly, I decided I didn't need to run parametric values since the intention of the design was for it be as simple as possible and because nothing in this assignment is exceptionally critical, I did not need to extensively parametrically model the gearbox because it would have been a waste of time for little or no impact on the final assembly. Whilst on the other hand, if I was designing the gear / sprocket, I would have preferred to design it parametrically given all the different design choices needed to optimize such a part to harness its fullest potential.  
 
 ## Communicate  
 Lessons Learned: I believe some lessons learned during this assignment were to being able to more efficiently optimize the shape of my gearbox based on its intention and purpose. For example, adding fillets in the gearbox to eliminate high stress points and allow gear oil to move around to lubricate gears inside the gearbox. Little thoughts and analytics like that go a long way in making a good product. I spent around 8 hours on this assignment between modeling different designs for my gearbox as well gathering the data and putting my website together in a manner that is presentable and professional.  
 
-## CAD files 
+## CAD files  
 <a href="A8_Gearbox.SLDPRT" download>Download SolidWorks Gearbox Housing</a>  
 <a href="A8_Gearboxasm.SLDASM" download>Download SolidWorks Gearbox Assembly</a>  
 
