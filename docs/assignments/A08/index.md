@@ -4,8 +4,12 @@
 The main objective of this assignment is to design a gearbox which can be assembled and disassembled given the description of the gears provided. The spur gears have a gear ratio of 24:9 and are listed in the resource section of this assignments instructions. The output gear torque and speed are to be 1.25 in-lbf and 110 rpm relative. The input and output shaft diameters are .125 and .25 inches respectively and each have a length of 1 inch. We are supposed to use the appropriate equations from the Machinery's Handbook for empirical units. The critical features of the gearbox include the shafts, and the journal bearings. Note that shafts are press fit through the hubs of the gears, making sure there is enough clearance between the gears and the gearbox, and using a running sliding fit for the size of the hole for the shafts.  
 
 ## Analyze  
+
+## Shafts  
 ![Feature1](IMG_0268.jpeg)  
 Input and Output shaft dimensions **were sufficient** for this process to handle the shear stress of the torque / torsion created by the transmission of energy between the two gears.  
+
+## Journal Bearings  
 ![Feature1](IMG_0269.jpeg)  
 The two bearings I selected for my shafts were made of bronze because it had the lowest amount of friction and is generally a good bearing material for being resistance to thermal wear. Additionally there were the perfect size and length according to PV measurements I had calculated above that allowed to optimize my design the best I could to meet the required goals for this assignment.  
 
@@ -15,10 +19,13 @@ The two bearings I selected for my shafts were made of bronze because it had the
 1/4" Shaft Journal Bearing: 
 ![Feature1](bronzebearinglongshaftA8.jpg)  
 
+## Drawing of Gearbox Housing  
+
 ![Feature1](IMG_0270.jpeg)  
 <object data="A8_Procedure_Progress.pdf" type="application/pdf" width="100%" height="800px">
     <p>Your browser does not support inline PDFs. <a href="A8_Procedure_Progress.pdf">Click here to view or download the A8_Procedure_Progress PDF</a>.</p>
 </object>  
+
 ## Decide  
 
 
