@@ -22,6 +22,10 @@ The two bearings I selected for my shafts were made of bronze because it had the
 ## Drawing of Gearbox Housing  
 
 ![Feature1](IMG_0270.jpeg)  
+
+# Photographic Album of Design Process  
+Within this PDF below includes pictures of the different design approaches, as well the assembly on the gearbox and mistakes I ran into along the way whilst trying to mesh the two gears together.  
+
 <object data="A8_Procedure_Progress.pdf" type="application/pdf" width="100%" height="800px">
     <p>Your browser does not support inline PDFs. <a href="A8_Procedure_Progress.pdf">Click here to view or download the A8_Procedure_Progress PDF</a>.</p>
 </object>  
