@@ -5,7 +5,9 @@ The main objective of this assignment is to design a gearbox which can be assemb
 
 ## Analyze  
 ![Feature1](IMG_0268.jpeg)  
+Input and Output shaft dimensions **were sufficient** for this process to handle the shear stress of the torque / torsion created by the transmission of energy between the two gears. 
 ![Feature1](IMG_0269.jpeg)  
+
 ![Feature1](IMG_0270.jpeg)  
 <object data="A8_Procedure_Progress.pdf" type="application/pdf" width="100%" height="800px">
     <p>Your browser does not support inline PDFs. <a href="A8_Procedure_Progress.pdf">Click here to view or download the A8_Procedure_Progress PDF</a>.</p>
