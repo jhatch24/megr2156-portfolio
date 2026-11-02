@@ -8,6 +8,7 @@ The main objective of this assignment is to design a gearbox which can be assemb
 Input and Output shaft dimensions **were sufficient** for this process to handle the shear stress of the torque / torsion created by the transmission of energy between the two gears. 
 ![Feature1](IMG_0269.jpeg)  
 The two bearings I selected for my shafts were made of bronze because it had the lowest amount of friction and is generally a good bearing material for being resistance to thermal wear.  
+
 1/8" Shaft Journal Bearing:  
 ![Feature1](bronzebearingshortshaftA8.jpeg)  
 
