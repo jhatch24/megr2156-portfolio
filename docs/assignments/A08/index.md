@@ -17,6 +17,6 @@ The main objective of this assignment is to design a gearbox which can be assemb
 Lessons Learned: I believe some lessons learned during this assignment were to being able to more efficiently optimize the shape of my gearbox based on its intention and purpose. For example, adding fillets in the gearbox to eliminate high stress points and allow gear oil to move around to lubricate gears inside the gearbox. Little thoughts and analytics like that go a long way in making a good product.  
 
 ## CAD files 
-<a href="A8_Gearbox.SLDPRT" download>Download SolidWorks Gearbox housing</a>  
+<a href="A8_Gearbox.SLDPRT" download>Download SolidWorks Gearbox Housing</a>  
 <a href="A8_Gearboxasm.SLDASM" download>Download SolidWorks Gearbox Assembly</a>  
 
