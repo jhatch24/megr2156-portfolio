@@ -30,7 +30,7 @@ The two bearings I selected for my shafts were made of bronze because it had the
 
 
 ## Communicate  
-Lessons Learned: I believe some lessons learned during this assignment were to being able to more efficiently optimize the shape of my gearbox based on its intention and purpose. For example, adding fillets in the gearbox to eliminate high stress points and allow gear oil to move around to lubricate gears inside the gearbox. Little thoughts and analytics like that go a long way in making a good product.  
+Lessons Learned: I believe some lessons learned during this assignment were to being able to more efficiently optimize the shape of my gearbox based on its intention and purpose. For example, adding fillets in the gearbox to eliminate high stress points and allow gear oil to move around to lubricate gears inside the gearbox. Little thoughts and analytics like that go a long way in making a good product. I spent around 8 hours on this assignment between modeling different designs for my gearbox as well gathering the data and putting my website together in a manner that is presentable and professional.  
 
 ## CAD files 
 <a href="A8_Gearbox.SLDPRT" download>Download SolidWorks Gearbox Housing</a>  
