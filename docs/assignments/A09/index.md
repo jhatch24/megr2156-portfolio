@@ -13,7 +13,16 @@ Assumptions: Assume the belt is made from polyurethane rubber with a yield stren
 ## Analyze  
 
 Belt Calculations:  
+![Feature1](IMG_0291.jpeg)  
 
+Shaft Calculations:  
+![Feature1](IMG_0293.jpeg)  
+
+Bearing Calculations:  
+![Feature1](IMG_0294.jpeg)  
+
+Frame Design:  
+![Feature1](IMG_0295.jpeg)  
 ## Decide
 
 
