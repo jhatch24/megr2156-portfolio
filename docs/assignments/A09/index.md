@@ -10,8 +10,9 @@ The objective of this week's assignment is to design a pulley system to transfer
 
 Assumptions: Assume the belt is made from polyurethane rubber with a yield strength of 3.25 MPa or 471 psi at 20% strain.  
 
-## Analyze
+## Analyze  
 
+Belt Calculations:  
 
 ## Decide
 
