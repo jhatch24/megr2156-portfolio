@@ -21,6 +21,7 @@ Link to choice of belt (3044K606):  https://www.mcmaster.com/3044K606-1835T382/
 
 Shaft Calculations:  
 ![Feature1](IMG_0293.jpeg)  
+Next on the list was to thoroughly calculate the shaft for the pulley and its properties so that it appropriately interacts with the components around it such as the bearing and pulley itself. Given the known parameters and material properties I was able to start playing around with equations to find my valuable unknowns. This procedure followed a similar process as the belt before it. This time I was particularly focused on the minimum diameter needed for the shaft to fit and properly interact within the bearing. Calculating for allowable shear stress along the way given our safety factor of 3. A hardened piece of 1060 steel with a 1/4" in diameter can easily be found anywhere.  
 
 Bearing Calculations:  
 ![Feature1](IMG_0294.jpeg)  
