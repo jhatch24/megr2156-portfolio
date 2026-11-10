@@ -38,10 +38,3 @@ In conclusion, I decided to opt for the 3044K606 19 1/4" belt from McMaster part
 Engineering lesson learned: One lesson I learned during this assignment was to take material properties, formulas and create a design that didn't necessarily involve CAD and allowed us to put everything on paper first before translating it online. This assignment helped me understand the value of using pen and paper first and solving for material properties to make an educated decision rather than just guessing and hoping it works. The time, money, and effort can be saved just by thinking more critically about what is going on in the system first before getting excited and throwing it into CAD or looking for parts. Additionally I learned more in-depth about how critical components of a pulley interact and what is the thought process in designing one that can meet certain parameters and goals. This assignment took me roughly 4 hours to finish over the course of multiple days between updating my webpage and working through the calculations.  
 
 
-
-
-
-
-
-
-
