@@ -29,6 +29,7 @@ Once again following a similar procedure to the first two items above. The instr
 
 # Frame Design:  
 ![Feature1](IMG_0295.jpeg)  
+Lastly, following the same procedure above, this part of the assignment asked us to be more creative and design a frame for this pulley system. We were given inspiration in the assignment instructions, but I took inspiration from a industrial sized chain link plate that I had seen during my internship over the summer. This design is a fairly lightweight and robust support piece to help withstand the vibrations and weight of the pulleys and belt on it. In the calculations above, I proved it is within the safety factor we are looking for. It was given enough material around the shaft holes and fillets edges to disperse and reduce the amount of stress on the part entirely allowing it be a perfectly viable option for this system.  
 
 ## Decide
 
