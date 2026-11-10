@@ -25,6 +25,7 @@ Next on the list was to thoroughly calculate the shaft for the pulley and its pr
 
 # Bearing Calculations:  
 ![Feature1](IMG_0294.jpeg)  
+Once again following a similar procedure to the first two items above. The instructions on the assignment asked us to reference the Machinery's Handbook Table 4 on pg. 2440 to locate the pressure and linear velocity related to material properties to select an appropriate bearing material for our the mating of the shaft and pulley. I decided to select a Dry Graphite Bearing because it reduces friction without the need for lubricant or grease which allows it be maintenance free for a certain amount of time until they need to be replaced. For a small pulley system like this a part like this does need to be super over-complicated or engineered because of the working load on the system. This bearing was along perfectly within the safety factor range.  
 
 # Frame Design:  
 ![Feature1](IMG_0295.jpeg)  
