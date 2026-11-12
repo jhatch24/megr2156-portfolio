@@ -14,7 +14,7 @@ Constrains:
 - Form factor: bench-top footprint favored; manageable overall height; 18 inch leadscrew minimum  
 - Safety Factor: 4  
 
-## Analyze
+## Analyze  
 
 
 ## Decide
