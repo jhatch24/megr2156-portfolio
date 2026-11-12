@@ -7,7 +7,6 @@ The object our assignment is to design and build a mechanically driven tensile t
 - Develop a **lead-screw driven crosshead**  
 - Ensure **accurate, repeatable load application** to 2kN with minimal crosshead deflection and misalignment.  
 - Provide **robust specimen gripping**, simple calibration provisions (mechanical), safe, and ergonomic operation.  
-- 
 Constrains:  
 - Purely Mechanical  
 - Load capacity: 2kN (with appropriate safety factor in structure and drivetrain)  
