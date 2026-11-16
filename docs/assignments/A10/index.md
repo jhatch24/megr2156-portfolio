@@ -15,6 +15,19 @@ Constrains:
 - Safety Factor: 4  
 
 ## Analyze  
+### The Assembly - Jackson Rice
+
+Now that everything was designed we just had to assemble it. First was the crosshead assembly. This consisted of two leadscrews, the crosshead itself, two flanges, and two nuts.
+<img width="627" height="559" alt="image" src="https://github.com/user-attachments/assets/aec8fdf4-68ff-481d-888f-8c0ab285f383" />
+
+
+Now was time for the full assembly. This was just the crosshead assembly and the frame. The frame had to be assembled part by part which proved more difficult than I first thought. I had to find the right size and at first the smallest size was 1 meter, which was way too big. I eventually found the right sizes and assembled the frame.
+
+
+When everything was added I did not like the exposed ends of the frame. To account for this I made custom cover plates for the ends. One really big problem I had was the flanges. I spent almost an hour looking for the flanges for the bottom and top of the lead screws. I could not find any so I just made them myself.
+
+
+CAD Files:
 
 
 ## Decide
