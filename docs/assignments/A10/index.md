@@ -36,7 +36,7 @@ The last thing i need before I select the lead screw is to calculate the max tor
 
 After plugging in my number i got the max torque to be .6786 N-m per screw as the load an torque is distributed between the two screws. From all of my calculations for the diameter, the rotational speed range, and the max torque i selected the 1018 Carbon Steel Precision Acme Lead Screw, Right Hand, 1/4"-16 Thread Size, 18" Long as it matched all the requirements and calculated parameters best.
 
-[Lead Screw Link](https://mcmaster.com)
+[Lead Screw Link](https://www.mcmaster.com/99030A981/)
 
 ### Nut and Flange Selection (Justin Adelman)
 
