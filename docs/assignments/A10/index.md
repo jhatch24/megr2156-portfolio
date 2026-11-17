@@ -76,16 +76,8 @@ Now was time for the full assembly. This was just the crosshead assembly and the
 
 ### Tabulation (Justin Hatcher)
 
-| Item # | Quantity | Name | Cost / Item | Cost | Purchase Link |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | 2 | Leadscrew | 22.28 | 44.56 | https://mcmaster.com |
-| 2 | 2 | Acme Flange | 37.06 | 74.12 | https://mcmaster.com |
-| 3 | 2 | Acme Nut | 35.78 | 71.56 | https://mcmaster.com |
-| 4 | 4 | T-Slotted Framing 2ft | 45.76 | 183.04 | https://mcmaster.com |
-| 5 | 2 | T-Slotted Framing 3ft | 66.89 | 133.78 | https://mcmaster.com |
-| | | | **Total Cost:** | **507.06** | |
 
-[A10 Tabulation Link](PASTE_TABULATION_LINK_HERE)
+[A10 Tabulation Link](https://docs.google.com/spreadsheets/d/1-IyFBrPSqRsUC8X71TDrjAil2_3B7H-Nr4CGZBN8Lyw/edit?usp=sharing)
 
 ## Lessons Learned
 
