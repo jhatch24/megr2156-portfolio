@@ -44,11 +44,11 @@ Now that I had selected the lead screw I had to select the complimentary nut and
 
 I got max stress to me 101.05 MPA which is plenty below the yield strength of 673 bronze of 203 MPA. Also the calculated 101.05 used the safety factor of 4 so it well within all parameters. From this i selected a nut for this length material and internal pitch to match the screw which is linked here.
 
-[Link for Selected Nut](https://mcmaster.com)
+[Link for Selected Nut](https://www.mcmaster.com/95072A881/)
 
 This but had an external thread of 9/16 - 18 so all i had to do was to select a flange that would match this pitch and allow the nut to thread in and connect which is linked here.
 
-[Link for Selected Flange](https://mcmaster.com)
+[Link for Selected Flange](https://www.mcmaster.com/95082A641/)
 
 ### Designing the Crosshead (Justin Hatcher)
 
