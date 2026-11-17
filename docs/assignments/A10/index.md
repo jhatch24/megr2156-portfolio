@@ -88,11 +88,21 @@ Now that everything was designed we just had to assemble it. First was the cross
 
 <img width="517" height="782" alt="image" src="https://github.com/user-attachments/assets/7cbd405d-1c0d-4ad4-b8c0-97cc633feae5" />
 
+<img width="516" height="625" alt="image" src="https://github.com/user-attachments/assets/07f8050a-4839-441a-b578-8d0b4f741dff" />
+
 Now was time for the full assembly. This was just the crosshead assembly and the frame. The frame had to be assembled part by part which proved more difficult than I first thought. I had to find the right size and at first the smallest size was 1 meter, which was way too big. I eventually found the right sizes and assembled the frame.
+
+<img width="518" height="678" alt="image" src="https://github.com/user-attachments/assets/219355ee-b732-4b59-9241-a9f99abcc24e" />
+
+<img width="519" height="590" alt="image" src="https://github.com/user-attachments/assets/5f8abc98-3f9f-4726-be8f-80ec934d98df" />
 
 ### Frame Selection (Jackson Rice)
 
+<img width="519" height="330" alt="image" src="https://github.com/user-attachments/assets/08e25f72-fcc4-4533-9a2b-649878751a3c" />
+
 2ft frame
+
+<img width="565" height="122" alt="image" src="https://github.com/user-attachments/assets/8679f8d3-5179-41cc-97c4-3f7871c8cf75" />
 
 3ft frame
 
